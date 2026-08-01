@@ -1,1 +1,7 @@
-{}
+{
+  "commandsExecuted": 6,
+  "command_ping": 2,
+  "command_setname": 1,
+  "command_setpp": 2,
+  "command_profil": 1
+}
