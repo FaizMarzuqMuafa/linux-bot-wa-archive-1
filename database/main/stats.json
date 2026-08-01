@@ -1,7 +1,13 @@
 {
-  "commandsExecuted": 6,
-  "command_ping": 2,
+  "commandsExecuted": 15,
+  "command_ping": 3,
   "command_setname": 1,
   "command_setpp": 2,
-  "command_profil": 1
+  "command_profil": 1,
+  "command_tt": 3,
+  "command_ttmp3": 1,
+  "command_join": 1,
+  "command_antilinkgc": 1,
+  "command_antiswgc": 1,
+  "command_kick": 1
 }

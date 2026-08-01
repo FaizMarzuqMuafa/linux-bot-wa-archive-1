@@ -2,14 +2,14 @@
   "120363427618821749@g.us": {
     "chatStats": {
       "6288212949095@s.whatsapp.net": {
-        "count": 9,
-        "lastChat": 1785569520789,
+        "count": 15,
+        "lastChat": 1785585107898,
         "name": "idk"
       },
       "62895428283397@s.whatsapp.net": {
-        "count": 13,
-        "lastChat": 1785571898585,
-        "name": "kiri"
+        "count": 20,
+        "lastChat": 1785591467577,
+        "name": "kira"
       },
       "6283116101192@s.whatsapp.net": {
         "count": 2,
@@ -29,5 +29,38 @@
     "rpg": true,
     "warnings": [],
     "chat": {}
+  },
+  "120363410296353710@g.us": {
+    "welcome": false,
+    "goodbye": false,
+    "leave": false,
+    "jid": "120363410296353710@g.us",
+    "name": "MARKET ALL GAME",
+    "antilink": false,
+    "antitoxic": false,
+    "mute": false,
+    "game": true,
+    "rpg": true,
+    "warnings": [],
+    "chat": {},
+    "chatStats": {
+      "6288212949095@s.whatsapp.net": {
+        "count": 2,
+        "lastChat": 1785583590082,
+        "name": "idk"
+      },
+      "6285181975237@s.whatsapp.net": {
+        "count": 4,
+        "lastChat": 1785591465920,
+        "name": "Guss."
+      },
+      "62895428283397@s.whatsapp.net": {
+        "count": 2,
+        "lastChat": 1785591362630,
+        "name": "kira"
+      }
+    },
+    "antilinkgc": "on",
+    "antiswgc": "on"
   }
 }
