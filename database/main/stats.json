@@ -1,5 +1,5 @@
 {
-  "commandsExecuted": 15,
+  "commandsExecuted": 16,
   "command_ping": 3,
   "command_setname": 1,
   "command_setpp": 2,
@@ -9,5 +9,6 @@
   "command_join": 1,
   "command_antilinkgc": 1,
   "command_antiswgc": 1,
-  "command_kick": 1
+  "command_kick": 2,
+  "dailyResets": 1
 }
