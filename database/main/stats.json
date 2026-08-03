@@ -1,5 +1,5 @@
 {
-  "commandsExecuted": 27,
+  "commandsExecuted": 28,
   "command_ping": 8,
   "command_setname": 1,
   "command_setpp": 2,
@@ -14,5 +14,6 @@
   "command_danafake": 1,
   "command_ganti-asset": 1,
   "command_addown": 1,
-  "command_swgc": 2
+  "command_swgc": 2,
+  "command_bratvid": 1
 }
