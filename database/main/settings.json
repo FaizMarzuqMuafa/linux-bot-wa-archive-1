@@ -27,7 +27,7 @@
   "publicAdmin": false,
   "_lastEnergiDefault": 99999,
   "_lastEnergiPremium": 99999999,
-  "lastLimitReset": "2026-08-04T17:00:00.013Z",
+  "lastLimitReset": "2026-08-05T17:00:00.003Z",
   "onlyThisGroup": null,
   "autoJpm": {
     "enabled": false,
@@ -194,6 +194,14 @@
     "6283897766151@s.whatsapp.net": {
       "jid": "6283897766151@s.whatsapp.net",
       "name": "."
+    },
+    "6283174402911@s.whatsapp.net": {
+      "jid": "6283174402911@s.whatsapp.net",
+      "name": "vino los angles"
+    },
+    "6283116888779@s.whatsapp.net": {
+      "jid": "6283116888779@s.whatsapp.net",
+      "name": "princess ara"
     }
   },
   "notiflimit": false,
