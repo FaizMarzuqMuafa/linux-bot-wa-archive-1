@@ -1,6 +1,6 @@
 {
-  "commandsExecuted": 36,
-  "command_ping": 11,
+  "commandsExecuted": 37,
+  "command_ping": 12,
   "command_setname": 1,
   "command_setpp": 2,
   "command_profil": 1,
@@ -10,7 +10,7 @@
   "command_antilinkgc": 1,
   "command_antiswgc": 1,
   "command_kick": 4,
-  "dailyResets": 5,
+  "dailyResets": 6,
   "command_danafake": 1,
   "command_ganti-asset": 1,
   "command_addown": 1,
