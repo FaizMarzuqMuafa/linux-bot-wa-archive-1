@@ -1,5 +1,5 @@
 {
-  "commandsExecuted": 48,
+  "commandsExecuted": 49,
   "command_ping": 13,
   "command_setname": 1,
   "command_setpp": 2,
@@ -9,7 +9,7 @@
   "command_join": 2,
   "command_antilinkgc": 1,
   "command_antiswgc": 1,
-  "command_kick": 6,
+  "command_kick": 7,
   "dailyResets": 14,
   "command_danafake": 1,
   "command_ganti-asset": 1,
