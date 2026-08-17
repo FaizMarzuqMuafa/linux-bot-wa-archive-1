@@ -62,7 +62,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3630,
+    "exp": 3645,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -72,7 +72,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-17T09:49:56.864Z",
+    "lastSeen": "2026-08-17T13:35:47.554Z",
     "cooldowns": {
       "kick": 1785592066345,
       "tt": 1785591480269
