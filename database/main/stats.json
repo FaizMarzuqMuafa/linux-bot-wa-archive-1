@@ -1,6 +1,6 @@
 {
-  "commandsExecuted": 54,
-  "command_ping": 15,
+  "commandsExecuted": 56,
+  "command_ping": 16,
   "command_setname": 1,
   "command_setpp": 2,
   "command_profil": 1,
@@ -14,7 +14,7 @@
   "command_danafake": 1,
   "command_ganti-asset": 1,
   "command_addown": 1,
-  "command_swgc": 3,
+  "command_swgc": 4,
   "command_bratvid": 2,
   "command_self": 1,
   "command_del": 1,
