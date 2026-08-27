@@ -1,5 +1,5 @@
 {
-  "commandsExecuted": 58,
+  "commandsExecuted": 60,
   "command_ping": 16,
   "command_setname": 1,
   "command_setpp": 2,
@@ -19,5 +19,6 @@
   "command_self": 1,
   "command_del": 1,
   "command_menu": 2,
-  "command_brat": 2
+  "command_brat": 3,
+  "command_bratimg": 1
 }
