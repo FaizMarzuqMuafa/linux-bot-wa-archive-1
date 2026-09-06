@@ -1,1 +1,28 @@
+<<<<<<< HEAD
 {}
+=======
+{
+  "commandsExecuted": 63,
+  "command_ping": 16,
+  "command_setname": 1,
+  "command_setpp": 2,
+  "command_profil": 1,
+  "command_tt": 11,
+  "command_ttmp3": 2,
+  "command_join": 3,
+  "command_antilinkgc": 1,
+  "command_antiswgc": 1,
+  "command_kick": 7,
+  "dailyResets": 31,
+  "command_danafake": 1,
+  "command_ganti-asset": 1,
+  "command_addown": 1,
+  "command_swgc": 5,
+  "command_bratvid": 2,
+  "command_self": 1,
+  "command_del": 1,
+  "command_menu": 2,
+  "command_brat": 3,
+  "command_bratimg": 1
+}
+>>>>>>> b50a1e0654 (Auto backup [skip ci])
