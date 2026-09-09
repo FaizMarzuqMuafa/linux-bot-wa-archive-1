@@ -1,11 +1,11 @@
 require("./Cantarella")
 const fs = require('fs')
 
-global.owner = "6285813708397", "6285813708397" //NOMOR OWNER
-global.nobot = "6285119732048" //NOMOR BOT
-global.nomorowner = '6285813708397' //NOMOR OWNER
-global.namaowner = "FallZx Infinity" //NAMA OWNER LO
-global.namaBot = "𝑪𝒂𝒏𝒕𝒂𝒓𝒆𝒍𝒍𝒂" //NAMA BOT LO
+global.owner = "6288212949095", "6288212949095" //NOMOR OWNER
+global.nobot = "62881011965054" //NOMOR BOT
+global.nomorowner = '6288212949095' //NOMOR OWNER
+global.namaowner = "pais" //NAMA OWNER LO
+global.namaBot = "justfriend mania" //NAMA BOT LO
 global.thumnail2 = "https://d.uguu.se/yzPjnXEU.jpeg" //REPLY IMAG
 global.replyimg = "https://u.pone.rs/sofxtryg.jpg" //REPLY IMAGE
 global.creator = `${owner}@s.whatsapp.net` //GAUSAH LO OPREK
