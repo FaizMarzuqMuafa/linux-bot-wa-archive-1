@@ -1,0 +1,176 @@
+{
+  "120363406234119805@g.us": [
+    {
+      "id": "cf6b95b0",
+      "ts": 1775481986039,
+      "time": "6/4/2026, 13.26.26",
+      "type": "invite_link",
+      "userId": "62881036032734@s.whatsapp.net",
+      "detail": "1 invite link",
+      "severity": "medium",
+      "level": 2
+    },
+    {
+      "id": "dcc75e05",
+      "ts": 1775481986077,
+      "time": "6/4/2026, 13.26.26",
+      "type": "escalation_level_1",
+      "userId": "62881036032734@s.whatsapp.net",
+      "detail": "Peringatan: 🔗 Link invite grup lain tidak diizinkan",
+      "severity": "high",
+      "level": 3
+    },
+    {
+      "id": "b345e350",
+      "ts": 1775713145076,
+      "time": "9/4/2026, 05.39.05",
+      "type": "fake_admin",
+      "userId": "6289520430523@s.whatsapp.net",
+      "detail": "Nama meniru format admin/staff/owner",
+      "severity": "high",
+      "level": 3
+    },
+    {
+      "id": "be2087d4",
+      "ts": 1775713153778,
+      "time": "9/4/2026, 05.39.13",
+      "type": "fake_admin",
+      "userId": "6289520430523@s.whatsapp.net",
+      "detail": "Nama meniru format admin/staff/owner",
+      "severity": "high",
+      "level": 3
+    }
+  ],
+  "120363312283295424@g.us": [
+    {
+      "id": "96ed2e9c",
+      "ts": 1787731236754,
+      "time": "26/8/2026, 08.00.36",
+      "type": "fake_admin",
+      "userId": "6282181857699@s.whatsapp.net",
+      "detail": "Nama meniru format admin/staff/owner",
+      "severity": "high",
+      "level": 3
+    },
+    {
+      "id": "5ab056ba",
+      "ts": 1787731239290,
+      "time": "26/8/2026, 08.00.39",
+      "type": "fake_admin",
+      "userId": "6282181857699@s.whatsapp.net",
+      "detail": "Nama meniru format admin/staff/owner",
+      "severity": "high",
+      "level": 3
+    },
+    {
+      "id": "2ff64c17",
+      "ts": 1787731251242,
+      "time": "26/8/2026, 08.00.51",
+      "type": "fake_admin",
+      "userId": "6282181857699@s.whatsapp.net",
+      "detail": "Nama meniru format admin/staff/owner",
+      "severity": "high",
+      "level": 3
+    },
+    {
+      "id": "87e6750b",
+      "ts": 1787731269763,
+      "time": "26/8/2026, 08.01.09",
+      "type": "fake_admin",
+      "userId": "6282181857699@s.whatsapp.net",
+      "detail": "Nama meniru format admin/staff/owner",
+      "severity": "high",
+      "level": 3
+    },
+    {
+      "id": "ad50e802",
+      "ts": 1787731276399,
+      "time": "26/8/2026, 08.01.16",
+      "type": "fake_admin",
+      "userId": "6282181857699@s.whatsapp.net",
+      "detail": "Nama meniru format admin/staff/owner",
+      "severity": "high",
+      "level": 3
+    },
+    {
+      "id": "6713baec",
+      "ts": 1787731280531,
+      "time": "26/8/2026, 08.01.20",
+      "type": "fake_admin",
+      "userId": "6282181857699@s.whatsapp.net",
+      "detail": "Nama meniru format admin/staff/owner",
+      "severity": "high",
+      "level": 3
+    },
+    {
+      "id": "3e847f81",
+      "ts": 1787731320381,
+      "time": "26/8/2026, 08.02.00",
+      "type": "fake_admin",
+      "userId": "6282181857699@s.whatsapp.net",
+      "detail": "Nama meniru format admin/staff/owner",
+      "severity": "high",
+      "level": 3
+    },
+    {
+      "id": "20b8a2ba",
+      "ts": 1787731345641,
+      "time": "26/8/2026, 08.02.25",
+      "type": "fake_admin",
+      "userId": "6282181857699@s.whatsapp.net",
+      "detail": "Nama meniru format admin/staff/owner",
+      "severity": "high",
+      "level": 3
+    },
+    {
+      "id": "933cf9ec",
+      "ts": 1787731363095,
+      "time": "26/8/2026, 08.02.43",
+      "type": "fake_admin",
+      "userId": "6282181857699@s.whatsapp.net",
+      "detail": "Nama meniru format admin/staff/owner",
+      "severity": "high",
+      "level": 3
+    },
+    {
+      "id": "67bc826f",
+      "ts": 1787731374901,
+      "time": "26/8/2026, 08.02.54",
+      "type": "fake_admin",
+      "userId": "6282181857699@s.whatsapp.net",
+      "detail": "Nama meniru format admin/staff/owner",
+      "severity": "high",
+      "level": 3
+    },
+    {
+      "id": "5f7d54e9",
+      "ts": 1787731393632,
+      "time": "26/8/2026, 08.03.13",
+      "type": "fake_admin",
+      "userId": "6282181857699@s.whatsapp.net",
+      "detail": "Nama meniru format admin/staff/owner",
+      "severity": "high",
+      "level": 3
+    },
+    {
+      "id": "fcdc44a9",
+      "ts": 1787731398893,
+      "time": "26/8/2026, 08.03.18",
+      "type": "fake_admin",
+      "userId": "6282181857699@s.whatsapp.net",
+      "detail": "Nama meniru format admin/staff/owner",
+      "severity": "high",
+      "level": 3
+    },
+    {
+      "id": "4f932680",
+      "ts": 1787731437012,
+      "time": "26/8/2026, 08.03.57",
+      "type": "fake_admin",
+      "userId": "6282181857699@s.whatsapp.net",
+      "detail": "Nama meniru format admin/staff/owner",
+      "severity": "high",
+      "level": 3
+    }
+  ]
+}

@@ -1,0 +1,4112 @@
+[
+  {
+    "ts": 1787818168810,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59874032,
+    "eventLoopLag": 18,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818198806,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59874368,
+    "eventLoopLag": 18,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818228806,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59245392,
+    "eventLoopLag": 17,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818258828,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 62579664,
+    "eventLoopLag": 17,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818288830,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63119408,
+    "eventLoopLag": 16,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818318830,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64142016,
+    "eventLoopLag": 16,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818348833,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63112288,
+    "eventLoopLag": 15,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818378843,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 62922240,
+    "eventLoopLag": 15,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818408835,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63358632,
+    "eventLoopLag": 15,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818438835,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 62944704,
+    "eventLoopLag": 14,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818468835,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63469808,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818567249,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 54612496,
+    "eventLoopLag": 185,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818597251,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 55711832,
+    "eventLoopLag": 93,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818627263,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 56589192,
+    "eventLoopLag": 63,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818657250,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 56406840,
+    "eventLoopLag": 52,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818687251,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 56270672,
+    "eventLoopLag": 42,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818717254,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 57119968,
+    "eventLoopLag": 35,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818747251,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 57074416,
+    "eventLoopLag": 31,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818777252,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 57229208,
+    "eventLoopLag": 27,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818807254,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 57603424,
+    "eventLoopLag": 25,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818869621,
+    "score": 70,
+    "grade": "B",
+    "errorRate": 0,
+    "memHeap": 78106048,
+    "eventLoopLag": 122,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818899618,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64825664,
+    "eventLoopLag": 63,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818929619,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 55215696,
+    "eventLoopLag": 43,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818959620,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 55072320,
+    "eventLoopLag": 33,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787818989619,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 55432824,
+    "eventLoopLag": 27,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819019619,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 56264472,
+    "eventLoopLag": 23,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819049619,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 56143296,
+    "eventLoopLag": 20,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819079625,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 56168512,
+    "eventLoopLag": 18,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819109670,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 56246864,
+    "eventLoopLag": 16,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819139622,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 56571640,
+    "eventLoopLag": 20,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819169622,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 56469056,
+    "eventLoopLag": 19,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819199622,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 56527888,
+    "eventLoopLag": 17,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819229623,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 56900936,
+    "eventLoopLag": 16,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819259624,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 57055888,
+    "eventLoopLag": 15,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819289622,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 57332552,
+    "eventLoopLag": 15,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819319624,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 56879160,
+    "eventLoopLag": 14,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819349627,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 57189488,
+    "eventLoopLag": 13,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819379626,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 57808720,
+    "eventLoopLag": 13,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819409657,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 57344160,
+    "eventLoopLag": 13,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819439676,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 57726600,
+    "eventLoopLag": 14,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819470032,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 57637960,
+    "eventLoopLag": 16,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819499984,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58080584,
+    "eventLoopLag": 18,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819529983,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 57733448,
+    "eventLoopLag": 17,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819559989,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 57631288,
+    "eventLoopLag": 17,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819590801,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 57840424,
+    "eventLoopLag": 17,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819620701,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 57783216,
+    "eventLoopLag": 21,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819651701,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 57825024,
+    "eventLoopLag": 21,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819681702,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58607432,
+    "eventLoopLag": 20,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819711703,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58646648,
+    "eventLoopLag": 20,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819741771,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 57899456,
+    "eventLoopLag": 21,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819771707,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58183520,
+    "eventLoopLag": 25,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819801706,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58309104,
+    "eventLoopLag": 24,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819832329,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58355928,
+    "eventLoopLag": 23,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819861739,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58275320,
+    "eventLoopLag": 50,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819891729,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58303856,
+    "eventLoopLag": 49,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819921715,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58332728,
+    "eventLoopLag": 48,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819951707,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58628776,
+    "eventLoopLag": 47,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787819981711,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58644888,
+    "eventLoopLag": 45,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820011731,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58616064,
+    "eventLoopLag": 44,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820041710,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58740544,
+    "eventLoopLag": 43,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820071708,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59190408,
+    "eventLoopLag": 42,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820101708,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59224432,
+    "eventLoopLag": 54,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820131708,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59229176,
+    "eventLoopLag": 52,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820161708,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59247368,
+    "eventLoopLag": 51,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820191708,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59511824,
+    "eventLoopLag": 48,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820221714,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58760888,
+    "eventLoopLag": 47,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820251711,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58799984,
+    "eventLoopLag": 45,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820281716,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58824768,
+    "eventLoopLag": 44,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820311713,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58860160,
+    "eventLoopLag": 42,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820341716,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59048040,
+    "eventLoopLag": 41,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820371740,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59165320,
+    "eventLoopLag": 39,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820402288,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59286976,
+    "eventLoopLag": 39,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820431714,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59287904,
+    "eventLoopLag": 71,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820461714,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59430176,
+    "eventLoopLag": 68,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820491766,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59345056,
+    "eventLoopLag": 67,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820521768,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59438736,
+    "eventLoopLag": 64,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820551766,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59276928,
+    "eventLoopLag": 62,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820581768,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59706424,
+    "eventLoopLag": 60,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820611960,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59720960,
+    "eventLoopLag": 58,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820642801,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59250176,
+    "eventLoopLag": 72,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820672027,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59311056,
+    "eventLoopLag": 100,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820702387,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59325136,
+    "eventLoopLag": 97,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820732030,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59379808,
+    "eventLoopLag": 106,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820762031,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59321872,
+    "eventLoopLag": 119,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820792032,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59466944,
+    "eventLoopLag": 114,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820822032,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59400016,
+    "eventLoopLag": 109,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820852032,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59658768,
+    "eventLoopLag": 104,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820882032,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59567440,
+    "eventLoopLag": 100,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820912081,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59538232,
+    "eventLoopLag": 96,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820942050,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59770024,
+    "eventLoopLag": 94,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787820972035,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59735144,
+    "eventLoopLag": 93,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821002040,
+    "score": 75,
+    "grade": "B",
+    "errorRate": 0,
+    "memHeap": 60925848,
+    "eventLoopLag": 90,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821032037,
+    "score": 75,
+    "grade": "B",
+    "errorRate": 0,
+    "memHeap": 61975144,
+    "eventLoopLag": 87,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821062037,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63133104,
+    "eventLoopLag": 84,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821092051,
+    "score": 75,
+    "grade": "B",
+    "errorRate": 0,
+    "memHeap": 60548000,
+    "eventLoopLag": 91,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821122041,
+    "score": 75,
+    "grade": "B",
+    "errorRate": 0,
+    "memHeap": 61737728,
+    "eventLoopLag": 88,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821152041,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59899392,
+    "eventLoopLag": 84,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821182044,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 60157448,
+    "eventLoopLag": 81,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821212041,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59522784,
+    "eventLoopLag": 78,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821242041,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59849184,
+    "eventLoopLag": 75,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821272041,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59850608,
+    "eventLoopLag": 72,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821302041,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59859960,
+    "eventLoopLag": 69,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821332043,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59861208,
+    "eventLoopLag": 67,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821362045,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59913160,
+    "eventLoopLag": 65,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821392055,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59867104,
+    "eventLoopLag": 63,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821422135,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59957880,
+    "eventLoopLag": 10,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821452048,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59837720,
+    "eventLoopLag": 14,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821482045,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59980696,
+    "eventLoopLag": 13,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821512046,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 60224416,
+    "eventLoopLag": 13,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821542048,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 60341960,
+    "eventLoopLag": 13,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821572049,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59738848,
+    "eventLoopLag": 12,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821602050,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59922688,
+    "eventLoopLag": 12,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821632049,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59883192,
+    "eventLoopLag": 12,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821662050,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 60089568,
+    "eventLoopLag": 11,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821692052,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59872768,
+    "eventLoopLag": 11,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821722051,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 60028640,
+    "eventLoopLag": 11,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821752077,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 60216960,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821782077,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 60206160,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821812078,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 60303224,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821842297,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 60793560,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821872297,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 60800688,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821902297,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 60913184,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821932298,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61218920,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821962296,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61391504,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787821992297,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61814904,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822022299,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61090912,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822052321,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61235224,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822082309,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61503768,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822112305,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61542888,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822142303,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61800400,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822172303,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61798896,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822202313,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61291472,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822232312,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61607128,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822262311,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61797496,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822292313,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 62023224,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822322312,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61418888,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822352324,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61471648,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822382315,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61640512,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822412521,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61981032,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822442512,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61958592,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822472513,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61750880,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822502515,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 62051288,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822532514,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 62129928,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822562514,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 62392024,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822592515,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63357704,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822622516,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63894864,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822652517,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63662192,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822682518,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63562960,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822712518,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63828456,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822742520,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64365392,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822772522,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64451768,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822802526,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63888856,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822832521,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64280864,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822862522,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64623456,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822892522,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65026320,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822922525,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64569248,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822952523,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64769864,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787822982523,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65030368,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823012527,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64622064,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823042526,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65124576,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823072548,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64687800,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823102524,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64783152,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823132525,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65024016,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823162524,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65122416,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823192527,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65504336,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823222529,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65083976,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823252526,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65477736,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823282525,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65625096,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823312542,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65259696,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823342527,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65675816,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823372530,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65219856,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823402528,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65560904,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823432528,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65653080,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823462528,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65867136,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823492528,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65245728,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823522532,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65644632,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823552528,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65280712,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823582531,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 66148944,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823612570,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65684904,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823642551,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 66119672,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823672536,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 66256592,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823702532,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 66370768,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823732535,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65772688,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823762534,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65899832,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823792541,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 66313536,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823822537,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 66577560,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823852544,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58882088,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823882534,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59169776,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823912536,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59089640,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823942536,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59430056,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787823972535,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58607928,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824002534,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59252272,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824032541,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58773896,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824062536,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58311600,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824092537,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58494584,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824122538,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 58843464,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824152536,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59005600,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824182538,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59274640,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824212538,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59935880,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824242543,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59464256,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824272569,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 60450304,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824302540,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 60291928,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824332541,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59985432,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824362544,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 60763016,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824392562,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 60659088,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824422543,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61395976,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824452543,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61629912,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824482547,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61664552,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824512544,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 62024832,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824542545,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61416112,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824572545,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61796912,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824602546,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61345376,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824632545,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 62220128,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824662548,
+    "score": 75,
+    "grade": "B",
+    "errorRate": 0,
+    "memHeap": 70978144,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824692546,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64859064,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824722547,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 59250656,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824752549,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64196120,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824782549,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63870560,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824812548,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63278400,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824842553,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64372552,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824872552,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64722608,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824902551,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64818936,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824932554,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65088832,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824962550,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64691264,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787824992550,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64644664,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825022554,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64807608,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825052552,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65226296,
+    "eventLoopLag": 4,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825082554,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65554408,
+    "eventLoopLag": 4,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825112560,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65118160,
+    "eventLoopLag": 4,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825142557,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65114056,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825172554,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65503504,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825202554,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65988696,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825232573,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 62070384,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825262556,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 62564472,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825292554,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 61994008,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825322555,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 62560216,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825352557,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63232784,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825382554,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 62794352,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825412552,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63104400,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825442553,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 62673656,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825472552,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63047432,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825502552,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63193472,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825532554,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63464656,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825562554,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63652256,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825592560,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63219792,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825622552,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63550192,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825652552,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63159584,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825682552,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63901040,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825712553,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63398544,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825742557,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63676704,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825772553,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64075344,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825802553,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63580480,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825832554,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64090848,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825862553,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63972160,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825892553,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63920624,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825922555,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64364696,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825952557,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64373344,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787825982555,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64735208,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826012561,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65319480,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826042563,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65203592,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826072557,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65710968,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826102558,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65730904,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826132560,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 66264136,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826162558,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65832752,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826192563,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 66639176,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826222556,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 66062568,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826252562,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 66424304,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826282559,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 67029424,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826312557,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 66671312,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826342555,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 66703400,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826372555,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 67014984,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826402654,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 67143936,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826434709,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 67333552,
+    "eventLoopLag": 11,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826463353,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63731600,
+    "eventLoopLag": 102,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826493349,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63519104,
+    "eventLoopLag": 98,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826523350,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64446752,
+    "eventLoopLag": 95,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826553353,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64051200,
+    "eventLoopLag": 91,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826583353,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64318632,
+    "eventLoopLag": 88,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826613352,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64527032,
+    "eventLoopLag": 85,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826643356,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64171304,
+    "eventLoopLag": 82,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826673355,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64424736,
+    "eventLoopLag": 79,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826703354,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64529672,
+    "eventLoopLag": 117,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826733354,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64687616,
+    "eventLoopLag": 111,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826763357,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65397576,
+    "eventLoopLag": 106,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826793356,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65005352,
+    "eventLoopLag": 102,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826823360,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64998424,
+    "eventLoopLag": 98,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826853358,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65965480,
+    "eventLoopLag": 94,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826883360,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 1,
+    "memHeap": 66265880,
+    "eventLoopLag": 91,
+    "connection": "unknown",
+    "repairQueue": 1
+  },
+  {
+    "ts": 1787826913360,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 1,
+    "memHeap": 70961408,
+    "eventLoopLag": 88,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826943359,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 1,
+    "memHeap": 68331672,
+    "eventLoopLag": 85,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787826973360,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 1,
+    "memHeap": 63401696,
+    "eventLoopLag": 82,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827003360,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63410648,
+    "eventLoopLag": 79,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827033363,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63833320,
+    "eventLoopLag": 109,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827063367,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 63470856,
+    "eventLoopLag": 104,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827093365,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64214608,
+    "eventLoopLag": 100,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827123367,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64165248,
+    "eventLoopLag": 96,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827153364,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64413000,
+    "eventLoopLag": 92,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827183382,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64777840,
+    "eventLoopLag": 88,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827213384,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65395176,
+    "eventLoopLag": 86,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827243369,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65165840,
+    "eventLoopLag": 84,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827273371,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65248336,
+    "eventLoopLag": 81,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827303369,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65350696,
+    "eventLoopLag": 78,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827333369,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65590024,
+    "eventLoopLag": 76,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827363372,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64826056,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827393375,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65500008,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827423373,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65657480,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827453376,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 64938208,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827483372,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65793504,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827513372,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65314496,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827543377,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65094168,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827573378,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65448632,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827603378,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 65657176,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827633378,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 1,
+    "memHeap": 65551944,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827663379,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 1,
+    "memHeap": 66483944,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827693418,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 1,
+    "memHeap": 68951840,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827723380,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 68248152,
+    "eventLoopLag": 11,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827753378,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 68339248,
+    "eventLoopLag": 11,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827783404,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 68856304,
+    "eventLoopLag": 11,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827813396,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 69040352,
+    "eventLoopLag": 11,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827843380,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 68466088,
+    "eventLoopLag": 13,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827873380,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 70150336,
+    "eventLoopLag": 13,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827903379,
+    "score": 60,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 70447192,
+    "eventLoopLag": 12,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827933382,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 69927016,
+    "eventLoopLag": 12,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827963382,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 70248912,
+    "eventLoopLag": 12,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787827993382,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 70493832,
+    "eventLoopLag": 12,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828023385,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 69926912,
+    "eventLoopLag": 13,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828053387,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 70381264,
+    "eventLoopLag": 13,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828083389,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 70673720,
+    "eventLoopLag": 12,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828113399,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 70150448,
+    "eventLoopLag": 12,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828143386,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 70578728,
+    "eventLoopLag": 13,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828173387,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 70172096,
+    "eventLoopLag": 12,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828203392,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 70927288,
+    "eventLoopLag": 12,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828233389,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 70963864,
+    "eventLoopLag": 12,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828263389,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 70491456,
+    "eventLoopLag": 12,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828293391,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 70778528,
+    "eventLoopLag": 11,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828323392,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 71071128,
+    "eventLoopLag": 11,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828353396,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 70560616,
+    "eventLoopLag": 9,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828383402,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 70863584,
+    "eventLoopLag": 9,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828413395,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 70851704,
+    "eventLoopLag": 9,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828443395,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 71379152,
+    "eventLoopLag": 9,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828473395,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 71264976,
+    "eventLoopLag": 9,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828503395,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 71523032,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828533398,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 70967656,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828563398,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 71343088,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828593398,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 71646072,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828623400,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 71409720,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828653403,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 71283328,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828683398,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 71642416,
+    "eventLoopLag": 6,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828713398,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 71797576,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828743397,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 71422504,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828773398,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 71960824,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828803398,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 71475328,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828833398,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 71853568,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828863402,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72295408,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828893401,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 71770688,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828923399,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72079776,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828953401,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72224808,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787828983403,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 71922280,
+    "eventLoopLag": 5,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829013405,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72077232,
+    "eventLoopLag": 3,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829043403,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72709560,
+    "eventLoopLag": 3,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829073402,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72278232,
+    "eventLoopLag": 3,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829103404,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72575624,
+    "eventLoopLag": 3,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829133404,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72905672,
+    "eventLoopLag": 3,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829163406,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72402816,
+    "eventLoopLag": 3,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829193408,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72899088,
+    "eventLoopLag": 3,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829223409,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72479256,
+    "eventLoopLag": 3,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829253410,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72698440,
+    "eventLoopLag": 4,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829283413,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 73102672,
+    "eventLoopLag": 4,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829313410,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72563328,
+    "eventLoopLag": 4,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829343428,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 73041496,
+    "eventLoopLag": 4,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829373410,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72651664,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829403419,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72928496,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829433417,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72573768,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829463417,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 73022544,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829493415,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72488360,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829523417,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72815680,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829553422,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 73124352,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829583422,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72794840,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829613445,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 73071976,
+    "eventLoopLag": 7,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829643422,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 73436960,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829673421,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 73206344,
+    "eventLoopLag": 10,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829703418,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 74163424,
+    "eventLoopLag": 10,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829733424,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 74546776,
+    "eventLoopLag": 10,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829763423,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 75311032,
+    "eventLoopLag": 10,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829793431,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 66948600,
+    "eventLoopLag": 10,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829823424,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 67122336,
+    "eventLoopLag": 11,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829853424,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 69127272,
+    "eventLoopLag": 10,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829883422,
+    "score": 75,
+    "grade": "B",
+    "errorRate": 0,
+    "memHeap": 108689144,
+    "eventLoopLag": 10,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829913430,
+    "score": 75,
+    "grade": "B",
+    "errorRate": 0,
+    "memHeap": 86641416,
+    "eventLoopLag": 10,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829943434,
+    "score": 75,
+    "grade": "B",
+    "errorRate": 0,
+    "memHeap": 91184392,
+    "eventLoopLag": 10,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787829973428,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 67526576,
+    "eventLoopLag": 10,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830003433,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 67283288,
+    "eventLoopLag": 9,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830033429,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 68120112,
+    "eventLoopLag": 9,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830063432,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 68103384,
+    "eventLoopLag": 9,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830093432,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 68360296,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830123439,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 68011312,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830153434,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 68109512,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830183441,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 68304128,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830213438,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 67873216,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830243438,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 68390544,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830273441,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 68114072,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830307869,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 68477928,
+    "eventLoopLag": 8,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830336467,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 68514808,
+    "eventLoopLag": 98,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830366070,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 68348088,
+    "eventLoopLag": 112,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830396126,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 72831888,
+    "eventLoopLag": 107,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830426077,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 73768312,
+    "eventLoopLag": 105,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830456071,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 73307144,
+    "eventLoopLag": 102,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830486071,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 73820696,
+    "eventLoopLag": 98,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830516073,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 73389968,
+    "eventLoopLag": 94,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830546071,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 74023832,
+    "eventLoopLag": 91,
+    "connection": "unknown",
+    "repairQueue": 0
+  },
+  {
+    "ts": 1787830576077,
+    "score": 65,
+    "grade": "C",
+    "errorRate": 0,
+    "memHeap": 73622176,
+    "eventLoopLag": 87,
+    "connection": "unknown",
+    "repairQueue": 0
+  }
+]

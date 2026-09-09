@@ -1,0 +1,241 @@
+{
+  "overallStatus": "degraded",
+  "uptime": 11700,
+  "uptimeHuman": "3j 15m 0d",
+  "connectionOk": true,
+  "lastConnected": "27/8/2026, 11.33.42",
+  "disconnects": 4,
+  "recentErrors": 15,
+  "riskScore": 18,
+  "riskLevel": "low",
+  "prediction": {
+    "trend": "stable",
+    "slope": "-0.06",
+    "predicted5min": 18,
+    "confidence": 1
+  },
+  "queue": {
+    "pending": 0,
+    "paused": false,
+    "pauseUntil": null,
+    "perMinute": 0,
+    "perHour": 0,
+    "perDay": 0,
+    "totalSent": 0,
+    "processing": false,
+    "errorCount": 0,
+    "uniqueJidsThisHour": 0,
+    "priorities": {
+      "critical": 0,
+      "high": 0,
+      "normal": 0,
+      "low": 0,
+      "background": 0
+    }
+  },
+  "warmup": {
+    "active": false,
+    "completed": false,
+    "trustScore": 100
+  },
+  "idle": {
+    "active": false,
+    "until": null,
+    "remaining": null,
+    "totalIdles": 2,
+    "history": [
+      {
+        "ts": "27/8/2026, 09.28.18",
+        "duration": "5min"
+      },
+      {
+        "ts": "27/8/2026, 10.43.40",
+        "duration": "3min"
+      }
+    ]
+  },
+  "safeMode": {
+    "active": false
+  },
+  "reconnect": {
+    "attemptsInWindow": 0,
+    "backoffLevel": 0,
+    "totalLifetime": 4,
+    "successStreak": 1,
+    "failStreak": 0,
+    "circuitState": "closed",
+    "lastAttempt": "27/8/2026, 11.33.40",
+    "recentHistory": [
+      {
+        "ts": 1787821839541,
+        "reason": "Stream Errored (ack)",
+        "attempt": 1,
+        "backoffLevel": 0
+      },
+      {
+        "ts": 1787824841273,
+        "reason": "Stream Errored (ack)",
+        "attempt": 1,
+        "backoffLevel": 0
+      },
+      {
+        "ts": 1787827843731,
+        "reason": "Stream Errored (ack)",
+        "attempt": 1,
+        "backoffLevel": 0
+      },
+      {
+        "ts": 1787830420544,
+        "reason": "Connection Terminated",
+        "attempt": 1,
+        "backoffLevel": 0
+      }
+    ],
+    "recentDisconnectReasons": [
+      {
+        "ts": 1787821839541,
+        "reason": "Stream Errored (ack)"
+      },
+      {
+        "ts": 1787824841273,
+        "reason": "Stream Errored (ack)"
+      },
+      {
+        "ts": 1787827843731,
+        "reason": "Stream Errored (ack)"
+      },
+      {
+        "ts": 1787830420544,
+        "reason": "Connection Terminated"
+      }
+    ]
+  },
+  "factors": [
+    {
+      "name": "heartbeat_failure",
+      "weight": 20,
+      "decayedWeight": 18.4,
+      "ageSeconds": 83
+    }
+  ],
+  "interaction": {
+    "health": "healthy",
+    "outboundPerHour": 0,
+    "inboundPerHour": 0,
+    "ratio": "1.00",
+    "totalContacts": 0,
+    "activeContacts": 0,
+    "newContactsNoReply": 0,
+    "issues": []
+  },
+  "connection": {
+    "quality": "fair",
+    "avgLatency5min": "0ms",
+    "reconnects10min": 1,
+    "errors5min": 1,
+    "totalLatencyPts": 0,
+    "qualityHistory": [
+      {
+        "ts": 1787824731435,
+        "quality": "good"
+      },
+      {
+        "ts": 1787825298199,
+        "quality": "fair"
+      },
+      {
+        "ts": 1787825632707,
+        "quality": "good"
+      },
+      {
+        "ts": 1787826945997,
+        "quality": "fair"
+      },
+      {
+        "ts": 1787827545601,
+        "quality": "good"
+      },
+      {
+        "ts": 1787829207665,
+        "quality": "fair"
+      },
+      {
+        "ts": 1787829741304,
+        "quality": "good"
+      },
+      {
+        "ts": 1787829943982,
+        "quality": "fair"
+      },
+      {
+        "ts": 1787830420541,
+        "quality": "good"
+      },
+      {
+        "ts": 1787830453474,
+        "quality": "fair"
+      }
+    ]
+  },
+  "degradation": {
+    "level": 0,
+    "levelName": "normal",
+    "since": "-",
+    "reason": "",
+    "config": {
+      "name": "normal",
+      "sendMultiplier": 1,
+      "skipMedia": false,
+      "skipGroups": false,
+      "skipBroadcast": false
+    }
+  },
+  "anomaly": {
+    "calibrated": false,
+    "violationCount": 0
+  },
+  "heartbeat": {
+    "status": "running",
+    "lastBeat": "27/8/2026, 09.04.53",
+    "beatCount": 10,
+    "missedBeats": 30,
+    "ageMs": 9043094
+  },
+  "presence": {
+    "currentState": "available",
+    "transitionCount": 3,
+    "recentHistory": [
+      {
+        "ts": "27/8/2026, 08.33.33",
+        "from": "unavailable",
+        "to": "available",
+        "circadian": "0.59"
+      },
+      {
+        "ts": "27/8/2026, 08.35.48",
+        "from": "available",
+        "to": "unavailable",
+        "circadian": "0.59"
+      },
+      {
+        "ts": "27/8/2026, 08.59.16",
+        "from": "unavailable",
+        "to": "available",
+        "circadian": "0.62"
+      }
+    ]
+  },
+  "poisson": {
+    "rate": 1.5,
+    "fit": "insufficient_data"
+  },
+  "circadian": {
+    "active": true,
+    "multiplier": "65%"
+  },
+  "delayAnalytics": {},
+  "entropy": {
+    "status": "insufficient_data"
+  },
+  "savedAt": "2026-08-27T11:35:36.823Z"
+}
