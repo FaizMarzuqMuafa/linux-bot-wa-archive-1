@@ -9,12 +9,12 @@ const config = {
   },
 
   owner: {
-    name: "AJI", // Nama owner
-    number: ["62xxxxxxxxx"], // Format: 628xxx (tanpa + atau 0)
+    name: "pais", // Nama owner
+    number: ["6288212949095"], // Format: 628xxx (tanpa + atau 0)
   },
 
   session: {
-    pairingNumber: "62xxxxxxxx", // Nomor WA yang akan di-pair, ini penting
+    pairingNumber: "62881011965054", // Nomor WA yang akan di-pair, ini penting
     usePairingCode: true, // true = Pairing Code, false = QR Code
   },
 
@@ -26,9 +26,9 @@ const config = {
   },
 
   bot: {
-    name: "𝗢𝗨𝗥𝗜𝗡 𝗗𝗘𝗟𝗨𝗫𝗘 FREE", // Nama bot
+    name: "justfriend mania", // Nama bot
     version: "3.4", // Versi bot
-    developer: "Zann", // Nama developer
+    developer: "pais", // Nama developer
   },
 
   assets: {
@@ -108,8 +108,8 @@ const config = {
   },
 
   sticker: {
-    packname: "𝗢𝗨𝗥𝗜𝗡 𝗗𝗘𝗟𝗨𝗫𝗘", // Nama pack sticker
-    author: "ZANN", // Author sticker
+    packname: "paiz", // Nama pack sticker
+    author: "pais tamvan", // Author sticker
   },
 
   saluran: {
