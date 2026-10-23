@@ -1,8 +1,9 @@
 {
-  "commandsExecuted": 5,
-  "command_self": 1,
-  "command_ping": 2,
+  "commandsExecuted": 8,
+  "command_self": 2,
+  "command_ping": 3,
   "command_brat": 1,
   "command_bratimg": 1,
-  "dailyResets": 1
+  "dailyResets": 1,
+  "command_allmenu": 1
 }
