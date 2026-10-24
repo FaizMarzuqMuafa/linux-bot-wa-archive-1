@@ -169,13 +169,13 @@
   },
   "62881011965054": {
     "name": "Michael",
-    "lastSeen": "2026-10-23T21:21:33.566Z",
+    "lastSeen": "2026-10-24T01:54:18.880Z",
     "jid": "62881011965054",
     "number": "62881011965054",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 885,
+    "exp": 930,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -199,13 +199,13 @@
   },
   "6288212949095": {
     "name": "idk",
-    "lastSeen": "2026-10-23T16:04:34.386Z",
+    "lastSeen": "2026-10-24T02:20:19.383Z",
     "jid": "6288212949095",
     "number": "6288212949095",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 225,
+    "exp": 285,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -224,7 +224,7 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "23/10/2026",
-    "activeDays": 2
+    "lastActiveDate": "24/10/2026",
+    "activeDays": 3
   }
 }
