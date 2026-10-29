@@ -1,5 +1,5 @@
 {
-  "commandsExecuted": 39,
+  "commandsExecuted": 43,
   "command_self": 2,
   "command_ping": 11,
   "command_brat": 2,
@@ -7,13 +7,14 @@
   "dailyResets": 7,
   "command_allmenu": 2,
   "command_swgc": 3,
-  "command_tt": 5,
+  "command_tt": 6,
   "command_autojoin": 1,
   "command_autojoingc": 2,
-  "command_ttmp3": 1,
+  "command_ttmp3": 2,
   "command_ptvch": 2,
   "command_hd": 1,
   "command_wink": 2,
   "command_remini": 1,
-  "command_upscale": 2
+  "command_upscale": 2,
+  "command_s": 2
 }
