@@ -1,11 +1,11 @@
 {
-  "commandsExecuted": 59,
+  "commandsExecuted": 68,
   "command_self": 2,
   "command_ping": 11,
   "command_brat": 2,
   "command_bratimg": 5,
   "dailyResets": 10,
-  "command_allmenu": 3,
+  "command_allmenu": 4,
   "command_swgc": 4,
   "command_tt": 7,
   "command_autojoin": 1,
@@ -16,11 +16,11 @@
   "command_wink": 2,
   "command_remini": 1,
   "command_upscale": 2,
-  "command_s": 3,
+  "command_s": 7,
   "command_addown": 3,
   "command_smeme": 1,
   "command_cekkhodam": 2,
   "command_autodownload": 1,
   "command_autodl": 1,
-  "command_swm": 1
+  "command_swm": 5
 }
