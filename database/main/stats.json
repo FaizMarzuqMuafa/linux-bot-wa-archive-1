@@ -1,5 +1,5 @@
 {
-  "commandsExecuted": 70,
+  "commandsExecuted": 73,
   "command_self": 2,
   "command_ping": 11,
   "command_brat": 2,
@@ -22,5 +22,6 @@
   "command_cekkhodam": 2,
   "command_autodownload": 1,
   "command_autodl": 1,
-  "command_swm": 5
+  "command_swm": 5,
+  "command_tt2": 3
 }

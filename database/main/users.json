@@ -169,13 +169,13 @@
   },
   "62881011965054": {
     "name": "Michael",
-    "lastSeen": "2026-11-02T08:33:38.757Z",
+    "lastSeen": "2026-11-02T13:36:36.036Z",
     "jid": "62881011965054",
     "number": "62881011965054",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15030,
+    "exp": 15555,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -237,13 +237,13 @@
   },
   "6282123886154": {
     "name": "6282123886154",
-    "lastSeen": "2026-11-01T10:21:49.420Z",
+    "lastSeen": "2026-11-02T11:44:43.983Z",
     "jid": "6282123886154",
     "number": "6282123886154",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 195,
+    "exp": 240,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -262,8 +262,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "1/11/2026",
-    "activeDays": 2
+    "lastActiveDate": "2/11/2026",
+    "activeDays": 3
   },
   "62895365476502": {
     "name": "Ditzz",
