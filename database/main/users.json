@@ -169,13 +169,13 @@
   },
   "62881011965054": {
     "name": "Michael",
-    "lastSeen": "2026-11-04T10:53:59.531Z",
+    "lastSeen": "2026-11-04T15:47:46.739Z",
     "jid": "62881011965054",
     "number": "62881011965054",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18465,
+    "exp": 18900,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -237,13 +237,13 @@
   },
   "6282123886154": {
     "name": "6282123886154",
-    "lastSeen": "2026-11-03T22:43:26.269Z",
+    "lastSeen": "2026-11-04T14:21:10.907Z",
     "jid": "6282123886154",
     "number": "6282123886154",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 255,
+    "exp": 270,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -297,13 +297,13 @@
   },
   "62895428283397": {
     "name": "`",
-    "lastSeen": "2026-11-01T13:34:29.233Z",
+    "lastSeen": "2026-11-04T14:53:01.680Z",
     "jid": "62895428283397",
     "number": "62895428283397",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30,
+    "exp": 45,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -322,7 +322,7 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "1/11/2026",
-    "activeDays": 2
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 3
   }
 }
