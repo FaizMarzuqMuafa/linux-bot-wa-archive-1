@@ -169,13 +169,13 @@
   },
   "62881011965054": {
     "name": "Channel",
-    "lastSeen": "2026-11-11T09:23:51.748Z",
+    "lastSeen": "2026-11-11T13:46:37.753Z",
     "jid": "62881011965054",
     "number": "62881011965054",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 24300,
+    "exp": 24480,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -297,13 +297,13 @@
   },
   "62895428283397": {
     "name": "`",
-    "lastSeen": "2026-11-07T13:39:51.540Z",
+    "lastSeen": "2026-11-11T14:01:09.252Z",
     "jid": "62895428283397",
     "number": "62895428283397",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60,
+    "exp": 75,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -322,7 +322,7 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "7/11/2026",
-    "activeDays": 4
+    "lastActiveDate": "11/11/2026",
+    "activeDays": 5
   }
 }

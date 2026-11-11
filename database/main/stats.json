@@ -1,5 +1,5 @@
 {
-  "commandsExecuted": 80,
+  "commandsExecuted": 81,
   "command_self": 2,
   "command_ping": 14,
   "command_brat": 2,
@@ -7,7 +7,7 @@
   "dailyResets": 20,
   "command_allmenu": 4,
   "command_swgc": 4,
-  "command_tt": 10,
+  "command_tt": 11,
   "command_autojoin": 1,
   "command_autojoingc": 2,
   "command_ttmp3": 2,
