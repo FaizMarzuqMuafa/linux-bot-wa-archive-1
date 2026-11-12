@@ -1,16 +1,16 @@
 {
-  "commandsExecuted": 81,
+  "commandsExecuted": 85,
   "command_self": 2,
   "command_ping": 14,
   "command_brat": 2,
   "command_bratimg": 5,
-  "dailyResets": 21,
+  "dailyResets": 22,
   "command_allmenu": 4,
   "command_swgc": 4,
-  "command_tt": 11,
+  "command_tt": 13,
   "command_autojoin": 1,
   "command_autojoingc": 2,
-  "command_ttmp3": 2,
+  "command_ttmp3": 3,
   "command_ptvch": 2,
   "command_hd": 1,
   "command_wink": 2,
@@ -23,5 +23,6 @@
   "command_autodownload": 1,
   "command_autodl": 1,
   "command_swm": 5,
-  "command_tt2": 4
+  "command_tt2": 4,
+  "command_ttmp4": 1
 }
