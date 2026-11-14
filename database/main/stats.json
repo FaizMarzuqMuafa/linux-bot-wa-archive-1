@@ -1,5 +1,5 @@
 {
-  "commandsExecuted": 87,
+  "commandsExecuted": 88,
   "command_self": 2,
   "command_ping": 14,
   "command_brat": 2,
@@ -23,6 +23,6 @@
   "command_autodownload": 1,
   "command_autodl": 1,
   "command_swm": 5,
-  "command_tt2": 6,
+  "command_tt2": 7,
   "command_ttmp4": 1
 }
