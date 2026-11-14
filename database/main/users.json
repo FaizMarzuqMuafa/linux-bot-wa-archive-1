@@ -169,13 +169,13 @@
   },
   "62881011965054": {
     "name": "Channel",
-    "lastSeen": "2026-11-14T10:21:53.054Z",
+    "lastSeen": "2026-11-14T15:17:47.935Z",
     "jid": "62881011965054",
     "number": "62881011965054",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27870,
+    "exp": 28560,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -202,8 +202,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "22/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "14/11/2026",
+    "activeDays": 2
   },
   "6288212949095": {
     "name": "idk",
