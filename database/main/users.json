@@ -169,13 +169,13 @@
   },
   "62881011965054": {
     "name": "Channel",
-    "lastSeen": "2026-11-15T06:25:51.244Z",
+    "lastSeen": "2026-11-15T11:32:07.538Z",
     "jid": "62881011965054",
     "number": "62881011965054",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29715,
+    "exp": 30465,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -192,13 +192,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 3,
-      "maxHealth": 120,
-      "maxMana": 110,
-      "maxStamina": 110,
-      "health": 120,
-      "mana": 110,
-      "stamina": 110
+      "level": 4,
+      "maxHealth": 130,
+      "maxMana": 115,
+      "maxStamina": 115,
+      "health": 130,
+      "mana": 115,
+      "stamina": 115
     },
     "inventory": {},
     "access": [],
@@ -237,13 +237,13 @@
   },
   "6282123886154": {
     "name": "6282123886154",
-    "lastSeen": "2026-11-14T08:54:33.057Z",
+    "lastSeen": "2026-11-15T09:42:51.155Z",
     "jid": "6282123886154",
     "number": "6282123886154",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 315,
+    "exp": 420,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -262,8 +262,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "14/11/2026",
-    "activeDays": 5
+    "lastActiveDate": "15/11/2026",
+    "activeDays": 6
   },
   "62895365476502": {
     "name": "Ditzz",
